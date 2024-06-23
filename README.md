@@ -1,10 +1,17 @@
 # Dataset Link
 https://www.mdpi.com/2306-5729/7/11/146
+
 This dataset contains data from a higher education institution on
 various variables related to undergraduate students, including
 demographics, social-economic factors, and academic performance, to
 investigate the impact of these factors on student dropout and academic
 success.
+
+# Collab Links
+
+Data Analytics : https://colab.research.google.com/drive/1HANwJ8_JwXXWUNaHffnfrpLL8upckkHX?usp=sharing
+
+Hypothesis Testing: https://colab.research.google.com/drive/1WAw5RF48nXPxb_HK_cQuX-3Z1O2g_k9d?usp=sharing
 
 # Project Description
 In this project we are trying to explore and detect
